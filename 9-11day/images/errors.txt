@@ -1,0 +1,4 @@
+[2019-01-02 14:31:38] layer "denis@getcraftwork.com": Unsupported extension: com
+[2019-01-02 14:38:36] layer "China is speeding up strategic plan, standards, traffic rules, ": Expected end of input but "," found.
+[2019-01-02 14:44:12] layer "Twitter Icon.png": Duplicate path: Twitter Icon.png
+[2019-01-02 14:31:38] layer "youname@mail.com": Unsupported extension: com
